@@ -18,6 +18,7 @@ Cursor, Codex, or any agent supporting the [open standard](https://agentskills.i
 | [visual-self-verification](./skills/visual-self-verification) | The four ways an LLM misreads its own screenshots (resting frames hide broken animations, downscaled renders invert contrast, interaction states never fire or get occluded, stale builds show old output), and the countermeasure for each. |
 | [adversarial-qa-loop](./skills/adversarial-qa-loop) | Drive a project to zero defects with proof. Parallel finder lanes (static, contract-oracle, flow/journey, differential), a default-reject verifier with three verdicts, behavioral drives of the running software, sequential fixes with red-then-green tests, looped until a full sweep is clean. |
 | [drive-the-fix](./skills/drive-the-fix) | Take one bug from report to a verified, landed fix. Reproduce the real trigger, root-cause, isolate, change it, then prove it by running the real artifact, with review ceremony scaled to blast radius. |
+| [intermittent-race-diagnosis](./skills/intermittent-race-diagnosis) | Chase a flaky, intermittent bug. Classify it (random N-of-M on identical input is a race, consistent N-of-N is a format gap), reproduce the real timing faithfully, find the read-that-lands-in-the-gap mechanism, rule out confounded measurement channels, and fix with a bounded re-read. |
 
 ## Example
 
