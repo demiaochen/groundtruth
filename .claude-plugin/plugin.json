@@ -1,0 +1,12 @@
+{
+  "name": "groundtruth",
+  "description": "Verification & proof Agent Skills for AI coding agents — prove your work by driving and observing the real thing.",
+  "author": {
+    "name": "Demiao Chen",
+    "email": "ssqr37@gmail.com"
+  },
+  "homepage": "https://github.com/demiaochen/groundtruth",
+  "repository": "https://github.com/demiaochen/groundtruth",
+  "license": "MIT",
+  "keywords": ["verification", "qa", "ui", "screenshots", "testing"]
+}
