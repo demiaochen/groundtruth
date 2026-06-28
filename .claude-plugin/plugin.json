@@ -1,6 +1,6 @@
 {
   "name": "groundtruth",
-  "description": "Verification & proof Agent Skills for AI coding agents — prove your work by driving and observing the real thing.",
+  "description": "Verification and proof Agent Skills for AI coding agents: verify UI and behavior by running and observing the real thing.",
   "author": {
     "name": "Demiao Chen",
     "email": "ssqr37@gmail.com"

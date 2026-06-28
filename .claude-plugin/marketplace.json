@@ -4,12 +4,12 @@
     "name": "Demiao Chen",
     "email": "ssqr37@gmail.com"
   },
-  "description": "Verification & proof Agent Skills — prove an AI agent's work by driving and observing the real thing, not by trusting a green test run or a screenshot.",
+  "description": "Verification and proof Agent Skills for AI coding agents: verify UI and behavior by running and observing the real thing, not by trusting a green test run or a screenshot.",
   "plugins": [
     {
       "name": "groundtruth",
       "source": "./",
-      "description": "The groundtruth verification & proof skill set (currently: visual-self-verification).",
+      "description": "The groundtruth verification and proof skill set.",
       "license": "MIT",
       "keywords": ["verification", "qa", "ui", "screenshots", "testing"]
     }
